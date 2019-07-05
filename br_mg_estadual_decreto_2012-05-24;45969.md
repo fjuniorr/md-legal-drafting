@@ -110,10 +110,6 @@ XVIII – reclassificação: alteração, pela autoridade competente, da classif
 
 XIX – rol de documentos, dados e informações sigilosas e pessoais: relação anual, a ser publicada pelas autoridades máximas de órgãos e entidades, de documentos, dados e informações classificadas, no período, como sigilosas ou pessoais, com identificação para referência futura;
 
-XX – serviço ou atendimento presencial: aquele prestado na presença física do cidadão, principal beneficiário ou interessado no serviço;
-
-XXI – serviço ou atendimento eletrônico: aquele prestado remotamente ou à distância, utilizando meios eletrônicos de comunicação;
-
 XXII – tabela de documentos, dados e informações sigilosas e pessoais: relação exaustiva de documentos, dados e informações com qualquer restrição de acesso, com a indicação do grau de sigilo, decorrente de estudos e pesquisas promovidos pelas Comissões de Gestão de Informação, e publicada pelas autoridades máximas dos órgãos e entidades; e
 
 XXIII – tratamento da informação: conjunto de ações referentes à produção, recepção, classificação, utilização, acesso, reprodução, transporte, transmissão, distribuição, arquivamento, armazenamento, eliminação, avaliação, destinação ou controle da informação.
