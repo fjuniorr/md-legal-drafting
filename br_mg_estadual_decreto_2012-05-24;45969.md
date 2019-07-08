@@ -74,8 +74,6 @@ Art. 5º Para os efeitos deste Decreto, consideram-se as seguintes definições:
 
 I – arquivos públicos: conjuntos de documentos produzidos, recebidos e acumulados por órgãos públicos, autarquias, fundações instituídas ou mantidas pelo Poder Público, empresas públicas, sociedades de economia mista, entidades privadas encarregadas da gestão de serviços públicos e organizações sociais, no exercício de suas funções e atividades;
 
-II – autenticidade: qualidade da informação que tenha sido produzida, expedida, recebida ou modificada por determinado indivíduo, equipamento ou sistema;
-
 III – classificação de sigilo: atribuição, pela autoridade competente, de grau de sigilo a documentos, dados e informações;
 
 IV – credencial de segurança: autorização por escrito concedida por autoridade competente, que habilita o agente público estadual no efetivo exercício de cargo, função, emprego ou atividade pública a ter acesso a documentos, dados e informações sigilosas;
@@ -88,11 +86,7 @@ VII – desclassificação: supressão da classificação de sigilo por ato da a
 
 VIII – documentos de arquivo: todos os registros de informação, em qualquer suporte, inclusive o magnético ou óptico, produzidos, recebidos ou acumulados por órgãos e entidades da Administração Pública Estadual, no exercício de suas funções e atividades;
 
-IX – disponibilidade: qualidade da informação que pode ser conhecida e utilizada por indivíduos, equipamentos ou sistemas autorizados;
-
 X – documento: unidade de registro de informações, qualquer que seja o suporte ou formato;
-
-XI – gestão de documentos: conjunto de procedimentos e operações técnicas referentes à sua produção, classificação, avaliação, tramitação, uso, arquivamento e reprodução, que assegura a racionalização e a eficiência dos arquivos;
 
 XII – informação: dados, processados ou não, que podem ser utilizados para produção e transmissão de conhecimento, contidos em qualquer meio, suporte ou formato;
 
@@ -101,10 +95,6 @@ XIII – informação pessoal: aquela relacionada à pessoa natural identificada
 XIV – informação sigilosa: aquela submetida temporariamente à restrição de acesso público em razão de sua imprescindibilidade para a segurança da sociedade e do Estado;
 
 XV – integridade: qualidade da informação não modificada, inclusive quanto à origem, trânsito e destino;
-
-XVI – marcação: aposição de marca assinalando o grau de sigilo de documentos, dados ou informações, ou sua condição de acesso irrestrito, após sua desclassificação;
-
-XVII – primariedade: qualidade da informação coletada na fonte, com o máximo de detalhamento possível, sem modificações;
 
 XVIII – reclassificação: alteração, pela autoridade competente, da classificação de sigilo de documentos, dados e informações;
 
